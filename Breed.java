@@ -1,4 +1,4 @@
-package ism.ase.ro;
+
 
 public enum Breed {
 	CANICHE,

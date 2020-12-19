@@ -1,4 +1,4 @@
-package ism.ase.ro;
+
 
 public class Dog {
 	private String name;
